@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Induwara Pathum.</h1>
 <h3 align="center">A passionate Web Developer from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **I am currently learning Web Development and Graphic Designing.**
+- 🌱 I’m currently learning ** Web Development and Graphic Designing.**
 
 - 📫 How to reach me **induwarapathum2@gmail.com**
 
